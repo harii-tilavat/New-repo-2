@@ -1,0 +1,10 @@
+# 1. All files has been ignored whose name is xyz.py
+xyz.py 
+
+# 2. Ignore folder 
+logs/
+
+# 3. .cpp extenstions all files wiil ignore
+*.cpp
+
+
